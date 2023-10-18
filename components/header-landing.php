@@ -3,12 +3,12 @@
         <div class="container">
             <ul class="social__nav-list f-elements f-col f-elements--center md:f-row gap-sm">
                 <li class="social__nav-item f-elements f-elements--center gap-sm px-md">
-                    <a href="tel:906276863" class="social__nav-link">
+                    <a href="tel:994987202" class="social__nav-link">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-headset social__nav-img" color="#FF3586" viewBox="0 0 16 16">
                             <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5z"/>
                         </svg>
                     </a>
-                    <a href="tel:906276863" class="list__link" id="social-text-1">906 276 863</a>
+                    <a href="tel:994987202" class="list__link" id="social-text-1">906 276 863</a>
                     <a href="" class="list__link">|</a>
                     <a href="tel:906638906" class="list__link" id="social-text-1">906 638 906</a>
                 </li>

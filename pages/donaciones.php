@@ -317,7 +317,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de ropa y calzado."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de ropa y calzado."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -359,7 +359,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de muebles."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de muebles."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -397,7 +397,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de computadoras."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de computadoras."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -437,7 +437,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Aparatos Tecnológicos."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Aparatos Tecnológicos."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -477,7 +477,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Electrodomésticos."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Electrodomésticos."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -513,7 +513,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Bienes e Inmuebles."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Bienes e Inmuebles."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -548,7 +548,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Juguetes."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Juguetes."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -584,7 +584,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Ortopédicos."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Ortopédicos."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -626,7 +626,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Alimentos."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Alimentos."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -664,7 +664,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Reciclaje General."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Reciclaje General."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -701,7 +701,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Metales y Chatarra."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Metales y Chatarra."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -727,7 +727,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de cosas usadas."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de cosas usadas."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -762,7 +762,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Vehículos."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación de Vehículos."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
@@ -814,7 +814,7 @@
                     </div>
                     <div class="f-elements f-col md:f-elements--center py-md mt-auto">
                         <div>
-                            <a class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación."><i class="bi bi-whatsapp"></i> Donar</a>
+                            <a class="button button--primary" href="https://wa.me/+51994987202?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación."><i class="bi bi-whatsapp"></i> Donar</a>
                         </div>
                     </div>
                 </div>
