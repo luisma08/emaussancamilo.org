@@ -9,7 +9,7 @@
         </div>
         <div class="f-elements f-col f-elements--end gap-sm bg-form mt-sm">
             <form class="form f-elements f-col gap-md" id="contact-form">
-            <p class="section__title section__title--primary text-uppercase">¿QUIERES SER PARTE DE ESTA <span class="section__title--span">CRUZADA?</span></p>
+            <p class="section__title section__title--primary text-uppercase"><span class="section__title--span">¡AYÚDANOS CON TU DONACIÓN!</span></p>
                 <div class="f-elements f-col">
                     <input type="text" name="name" placeholder="Nombre y Apellido" class="form__input" id="name"/>
                 </div>

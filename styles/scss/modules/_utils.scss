@@ -299,12 +299,16 @@
 
 .bg-form{
     --opacidad-negro: 0.2;
-    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-form.jpeg");
-    background-size: 100% 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-movil.jpg");
+    background-size: auto 100%;
     background-repeat: no-repeat;
     object-fit: cover;
     border-radius: 64px;
     width: 100%;
+
+    @include desktop{
+        background-size: 100% 100%;
+    }
 }
 
 .bg-cta{

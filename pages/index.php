@@ -85,11 +85,10 @@
                 <div class="banner__container">
                     <h1 class="banner__title">Donaciones que Salvan Vidas</h1>
                     <p class="banner__description">
-                        Tú puedes marcar la diferencia. Apoya nuestra terapia vanguardista y 
-                        brinda esperanza a quienes más lo necesitan.
+                        Tú puedes marcar la diferencia donando: <b>alimentos</b>, <b>ropa</b>, <b>juguetes</b>. Brinda esperanza a quienes más lo necesitan.
                     </p>
                     <div class="py-sm">
-                        <a target="_blank" class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> ¡Donar ahora!</a>
+                        <a target="_blank" class="button button--primary" href="https://wa.me/+51906276863?text=Hola Traperos De Emaús San Camilo, deseo realizar una donación"><i class="bi bi-balloon-heart"></i> ¡Dona ahora!</a>
                     </div>
                 </div>
             </div>
@@ -346,52 +345,61 @@
 
         <section class="section" id="actividades">
             <div class="container">
-                <div class="f-elements f-col gap-sm">
-                    <p class="section__subtitle section__subtitle--third text-uppercase">Conoce nuestras</p>
-                    <p class="section__title section__title--primary">
-                        <span class="section__title--span">Últimas Actividades <i class="bi bi-heart-fill"></i></span>
-                    </p>
-                    <div class="f-elements f-col f-elements--center gap-md py-md">
+                <div class="f-elements f-col f-elements--center gap-lg">
+                    <div class="f-elements f-col f-elements--center gap-sm">
+                        <p class="section__subtitle section__subtitle--third text-uppercase">Conoce nuestras</p>
+                        <p class="section__title section__title--primary">
+                            <span class="section__title--span">Últimas Actividades <i class="bi bi-heart-fill"></i></span>
+                        </p>
+                    </div>
+                    <div class="g-elements g-elements--responsive bg-img py-md px-md">
+                        <div class="f-elements f-col gap-sm py-sm">
+                            <p class="section__description section__description--reverse-responsive">
+                                Actividad de entrega de canastas a mamitas trabajadoras de la calle
+                            </p>
+                        </div>
+                    </div>
+                    <div class="slider">
                         <div class="swiper mySwiperActivity1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-6.jpg" alt="juguetes" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/1.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-22.jpg" alt="zapatos" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/2.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/bastones-1.jpeg" alt="bastones" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/3.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/pañales-3.jpeg" alt="pañales" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/4.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/muletas-1.jpeg" alt="muletas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/5.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/andadores-1.jpeg" alt="andadores" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/6.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/silla-de-ruedas-1.jpeg" alt="silla-de-ruedas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/7.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/andadores-2.jpeg" alt="andadores" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/8.webp" alt="canastas" class="card__img">
                                     </div>
                                 </div>
                             </div>
@@ -399,41 +407,121 @@
                             <div class="swiper-pagination mt-auto"></div>
                             -->
                         </div>
-                        <a class="button button--primary" href="/actividades-sociales"><i class="bi bi-balloon-heart"></i> Ver más Actividades</a>
                     </div>
-                </div>
-            </div>
-        </section>
-        
-        <!--   TERAPIAS  -->
-
-        <section class="section" id="nosotros">
-            <div class="g-elements g-elements--responsive gap-md">
-                <div class="slider">
-                    <div class="swiper mySwiperTerapias">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                    <img src="./assets/img/terapias/terapia-1.jpeg" alt="" class="section__img border-right" />
-                            </div>
-                            <div class="swiper-slide">
-                                    <img src="./assets/img/terapias/terapia-2.jpeg" alt="" class="section__img border-right" />
-                            </div>
-                            <div class="swiper-slide">
-                                    <img src="./assets/img/terapias/terapia-3.jpeg" alt="" class="section__img border-right" />
-                            </div>
+                    <div class="g-elements g-elements--responsive bg-img py-md px-md">
+                        <div class="f-elements f-col gap-sm py-sm">
+                            <p class="section__description section__description--reverse-responsive">
+                                Adultos mayores de Santa Rosa de Belén
+                            </p>
                         </div>
                     </div>
-                </div>
-                <div class="container f-elements f-col f-elements--justify-center gap-sm my-auto">
-                    <p class="section__title section__title--secondary">Terapias especializadas para el <span class="section__title--span">bienestar</span></p>
-                    <p class="section__description section__description--primary">
-                        Mejoramos la calidad de vida de los adultos mayores mediante terapias especializadas, como la <b>podología</b>, alivio de <b>dolores lumbares</b>, tratamiento de <b>dolores articulares</b> y mucho más. Nuestro enfoque se centra en proporcionar cuidado personalizado y efectivo, adaptado a las necesidades individuales de cada cliente. 
-                    </p>
-                    <p class="section__description section__description--primary">
-                        Con profesionales altamente capacitados y una atención dedicada, nos esforzamos por brindar un alivio tangible y duradero a nuestros pacientes. Permítanos ser su aliado en el camino hacia una vida más saludable y plena.
-                    </p>
-                    <div class="py-sm">
-                        <a class="button button--primary" href="/terapias">Saber mas</a>
+                    <div class="slider">
+                        <div class="swiper mySwiperActivity2">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/1.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/2.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/3.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/12.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/10.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/6.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/7.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/adultos-mayores/8.webp" alt="adultos-mayores" class="card__img">
+                                    </div>
+                                </div>
+                            </div>
+                            <!--
+                            <div class="swiper-pagination mt-auto"></div>
+                            -->
+                        </div>
+                    </div>
+                    <div class="g-elements g-elements--responsive bg-img py-md px-md">
+                        <div class="f-elements f-col gap-sm py-sm">
+                            <p class="section__description section__description--reverse-responsive">
+                                Donación de víveres a familias del Asentamiento Humano Las Lomas en San Gabriel
+                            </p>
+                        </div>
+                    </div>
+                    <div class="slider">
+                        <div class="swiper mySwiperActivity3">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/1.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/2.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/3.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/4.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/5.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/6.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/7.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/aa-hh/8.webp" alt="donacion-viveres" class="card__img">
+                                    </div>
+                                </div>
+                            </div>
+                            <!--
+                            <div class="swiper-pagination mt-auto"></div>
+                            -->
+                        </div>
+                    </div>
+                    <div>
+                        <a class="button button--primary" href="/actividades-sociales"><i class="bi bi-balloon-heart"></i> Ver más Actividades</a>
                     </div>
                 </div>
             </div>
