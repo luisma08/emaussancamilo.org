@@ -50,7 +50,7 @@
                             <a href="/" class="list__link--menu">Inicio</a>
                         </li>
                         <li>
-                            <a href="/nosotros" class="list__link--menu">Quienes Somos</a>
+                            <a href="/nosotros" class="list__link--menu">Nosotros</a>
                         </li>
                         <li>
                             <a href="/donaciones" class="list__link--menu">Donaciones</a>
@@ -59,7 +59,7 @@
                             <a href="/actividades-sociales" class="list__link--menu">Actividades Sociales</a>
                         </li>
                         <li>
-                            <a href="/terapias" class="list__link--menu">Terapias</a>
+                            <a href="/contactanos" class="list__link--menu">Contáctanos</a>
                         </li>
                     </ul>
                 </div>
