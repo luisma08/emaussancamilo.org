@@ -293,30 +293,33 @@
         <!--   QUIENES SOMOS  -->
 
         <section class="py-xl" id="nosotros">
-            <div class="g-elements g-elements--responsive gap-md">
-                <div class="slider">
-                    <div class="swiper mySwiperNosotros">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                    <img src="./assets/img/nosotros/nosotros-1.jpeg" alt="" class="section__img border-right" />
-                            </div>
-                            <div class="swiper-slide">
-                                    <img src="./assets/img/nosotros/nosotros-2.jpeg" alt="" class="section__img border-right" />
-                            </div>
-                            <div class="swiper-slide">
-                                    <img src="./assets/img/nosotros/nosotros-3.jpeg" alt="" class="section__img border-right" />
+            <div class="container">
+                <div class="g-elements g-elements--responsive gap-md">
+                    <div class="slider">
+                        <div class="swiper mySwiperNosotros">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="section__img mx-auto">
+                                        <img src="./assets/img/nosotros/01.webp" alt="" class="section__img border" />
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="section__img mx-auto">
+                                        <img src="./assets/img/nosotros/01.webp" alt="" class="section__img border" />
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="container f-elements f-col f-elements--justify-center gap-sm my-auto">
-                    <p class="section__title section__title--secondary">¿Quiénes <span class="section__title--span">Somos?</span></p>
-                    <p class="section__description section__description--primary">Somos un apasionado grupo de individuos con una fuerte vocación social que trabaja incansablemente 
-                        con un profundo amor por aquellos que menos tienen. Nuestra misión principal es difundir y promover nuestra labor, buscando donaciones tanto de personas como 
-                        de empresas e instituciones privadas y públicas. De esta manera, podemos continuar brindando ayuda y apoyo a las familias peruanas que más lo necesitan.
-                    </p>
-                    <div class="py-sm">
-                        <a class="button button--primary" href="/nosotros">Saber mas</a>
+                    <div class="f-elements f-col f-elements--justify-center gap-sm my-auto">
+                        <p class="section__title section__title--secondary">¿Quiénes <span class="section__title--span">Somos?</span></p>
+                        <p class="section__description section__description--primary">Somos un apasionado grupo de individuos con una fuerte vocación social que trabaja incansablemente
+                            con un profundo amor por aquellos que menos tienen. Nuestra misión principal es difundir y promover nuestra labor, buscando donaciones tanto de personas como
+                            de empresas e instituciones privadas y públicas. De esta manera, podemos continuar brindando ayuda y apoyo a las familias peruanas que más lo necesitan.
+                        </p>
+                        <div class="py-sm">
+                            <a class="button button--primary" href="/nosotros">Saber mas</a>
+                        </div>
                     </div>
                 </div>
             </div>
