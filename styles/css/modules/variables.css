@@ -1,0 +1,47 @@
+:root {
+    scroll-behavior: smooth;
+    --primary-theme-color: #FCE7F3;
+    --secondary-theme-color: #EC4899;
+    --primary-bg-color: #FFCAE4;
+    --primary-text-color: #fff;
+    --secondary-text-color: #D10547;
+    --third-text-color: #8C8C8C;
+    --span-text-color: #02B65B;
+    --reverse-primary-text-color: #000;
+    --primary-span-color: #FF3586;
+    --primary-input-color: #9B9B9B;
+    --primary-p-color: #000000;
+    --secondary-p-color:#FFFFFF;
+    --primary-shadow-color: #ffffff80;
+    --secondary-shadow-color: #ffffff40;
+    --reverse-primary-shadow-color: #00000080;
+    --primary-highlight-color: #EC4899;
+    --secondary-highlight-color: #FF3586;
+    --primary-button-color: #61dafb;
+    --secondary-button-color: #5CD252;
+    --primary-border-color:#80CE66;
+    --secondary-border-color:#000000;
+    --reverse-primary-border-color:#ffffff;
+    --primary-font-family: 'Urbanist', sans-serif;
+    --max-width-container: 1024px;
+    --padding-section: 1.5rem;
+    --padding-container: 1.25rem;
+    --padding-responsive: 5rem;
+    --primary-border-radius: 2rem;
+    --nav-primary-font-size: 1.125rem; /* 18px */
+    --primary-text-font-size: 0.75rem; /* 12px */
+    --secondary-text-font-size: 1.125rem; /* 18px */
+    --third-text-font-size: 1.875rem; /* 30px */
+    --four-text-font-size: 2.875rem; /* 40px */
+    --fifth-text-font-size: 1.25; /* 20px */
+    --primary-p-font-size: 0.938rem; /* 15px */
+    --secondary-p-font-size: 1.125rem; /* 18px */
+  }
+  
+  @media (min-width:768px){
+    :root {
+      --max-width-container: 1024px;
+      --padding-section: 2rem;
+      --padding-container: 0.75rem;
+    }
+  }
