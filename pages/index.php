@@ -299,7 +299,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="section__img mx-auto">
-                                        <img src="./assets/img/nosotros/01.webp" alt="" class="section__img border" />
+                                        <img src="./assets/img/nosotros/02.webp" alt="" class="section__img border" />
                                     </div>
                                 </div>
                                 <div class="swiper-slide">

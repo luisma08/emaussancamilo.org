@@ -265,7 +265,7 @@
 
 .bg-parallax{
     --opacidad-negro: 0.5;
-    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-movil.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-movil.webp");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     mix-blend-mode: luminosity;
@@ -273,7 +273,7 @@
     padding: 2.5rem;
 
     @include desktop{
-        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-desktop.jpg");
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-parallax-desktop.webp");
         /* Full height */
         height: auto;
 
@@ -303,7 +303,7 @@
 
 .bg-form{
     --opacidad-negro: 0.2;
-    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-movil.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/bg-form.webp");
     background-size: auto 100%;
     background-repeat: no-repeat;
     object-fit: cover;
