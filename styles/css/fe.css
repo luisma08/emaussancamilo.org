@@ -483,6 +483,10 @@
   border-radius: 15px;
 }
 
+.border-rose {
+  border: 1.5rem solid var(--primary-theme-color);
+}
+
 .h-0 {
   height: calc(100% - 8.9rem);
   top: 8.9rem;
@@ -580,6 +584,16 @@
 }
 @media (min-width: 1024px) {
   .section__title--responsive {
+    text-align: left;
+  }
+}
+.section__title--reverse-responsive {
+  text-align: center;
+  color: var(--primary-p-color);
+  font-weight: 700;
+}
+@media (min-width: 1024px) {
+  .section__title--reverse-responsive {
     text-align: left;
   }
 }

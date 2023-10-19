@@ -39,6 +39,16 @@
         }
       }
 
+      &--reverse-responsive{
+        text-align: center;
+        color:var(--primary-p-color);
+        font-weight: 700;
+
+        @include desktop{
+          text-align: left;
+        }
+      }
+
       &--span{
         color:var(--primary-span-color);
       }

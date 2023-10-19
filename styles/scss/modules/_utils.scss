@@ -476,6 +476,10 @@
     border-radius: 15px;
 }
 
+.border-rose{
+    border: 1.5rem solid var(--primary-theme-color);
+}
+
 .h-0{
     height: calc(100% - 8.9rem);
     top: 8.9rem;
