@@ -364,42 +364,42 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/1.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/1.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/2.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/2.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/3.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/3.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/4.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/4.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/5.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/5.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/6.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/6.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/7.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/7.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/canastas/8.webp" alt="canastas" class="card__img">
+                                        <img src="./assets/img/actividades/canastas/8.webp" alt="canastas" class="card__img border">
                                     </div>
                                 </div>
                             </div>
@@ -420,42 +420,42 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/1.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/1.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/2.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/2.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/3.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/3.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/12.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/12.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/10.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/10.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/6.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/6.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/7.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/7.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/adultos-mayores/8.webp" alt="adultos-mayores" class="card__img">
+                                        <img src="./assets/img/actividades/adultos-mayores/8.webp" alt="adultos-mayores" class="card__img border">
                                     </div>
                                 </div>
                             </div>
@@ -476,42 +476,42 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/1.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/1.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/2.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/2.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/3.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/3.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/4.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/4.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/5.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/5.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/6.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/6.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/7.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/7.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/aa-hh/8.webp" alt="donacion-viveres" class="card__img">
+                                        <img src="./assets/img/actividades/aa-hh/8.webp" alt="donacion-viveres" class="card__img border">
                                     </div>
                                 </div>
                             </div>
