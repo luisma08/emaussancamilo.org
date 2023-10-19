@@ -1072,14 +1072,14 @@
   background-position: center;
 }
 .banner__home {
-  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("https://assets.emaussancamilo.org/activity28/activity28-mobile.webp");
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/activity28-mobile.webp");
   height: 470px;
   background-position: 25% 40%;
   background-size: 100%;
 }
 @media (min-width: 1024px) {
   .banner__home {
-    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("https://assets.emaussancamilo.org/activity28/activity28-desktop.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/activity28-desktop.webp");
     height: 650px;
     padding-bottom: 0;
   }
