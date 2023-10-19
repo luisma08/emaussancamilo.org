@@ -88,6 +88,88 @@
             </div>
         </section>
 
+        <!--  ACTIVIDAD 4 -->
+
+        <section class="section" id="actividades">
+            <div class="container">
+                <div class="f-elements f-col gap-sm">
+                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Juguetes, Ropa y Zapatos</span></p>
+                    <p class="section__subtitle section__subtitle--third text-uppercase">AAHH de Valle Alto - San Gabriel</p>
+                    <div class="f-elements f-col f-elements--center gap-md py-md">
+                        <div class="swiper mySwiperActivity4">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-3.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-4.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-6.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-8.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-10.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-14.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-16.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-18.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-19.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-21.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-22.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card mx-auto">
+                                        <img src="./assets/img/actividades/donacion-juguetes-23.webp" alt="donacion-juguetes" class="card__img border">
+                                    </div>
+                                </div>
+                            </div>
+                            <!--
+                            <div class="swiper-pagination mt-auto"></div>
+                            -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FIN DE Actividades -->
+
         <!--  ACTIVIDAD 1 -->
 
         <section class="section" id="actividades">
@@ -99,47 +181,47 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-1.webp" alt="donacion-colchas-1" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-1.webp" alt="donacion-colchas-1" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-2.webp" alt="donacion-colchas-2" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-2.webp" alt="donacion-colchas-2" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-3.webp" alt="donacion-colchas-3" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-3.webp" alt="donacion-colchas-3" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-4.webp" alt="donacion-colchas-4" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-4.webp" alt="donacion-colchas-4" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-5.webp" alt="donacion-colchas-5" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-5.webp" alt="donacion-colchas-5" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-6.webp" alt="donacion-colchas-6" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-6.webp" alt="donacion-colchas-6" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-7.webp" alt="donacion-colchas-7" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-7.webp" alt="donacion-colchas-7" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-8.webp" alt="donacion-colchas-8" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-8.webp" alt="donacion-colchas-8" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/colchas-9.webp" alt="donacion-colchas-9" class="card__img">
+                                        <img src="./assets/img/actividades/colchas-9.webp" alt="donacion-colchas-9" class="card__img border">
                                     </div>
                                 </div>
                             </div>
@@ -163,22 +245,22 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ropa-1.webp" alt="ropa-1" class="card__img">
+                                        <img src="./assets/img/actividades/ropa-1.webp" alt="ropa-1" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ropa-2.webp" alt="ropa-2" class="card__img">
+                                        <img src="./assets/img/actividades/ropa-2.webp" alt="ropa-2" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ropa-3.webp" alt="ropa-3" class="card__img">
+                                        <img src="./assets/img/actividades/ropa-3.webp" alt="ropa-3" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ropa-4.webp" alt="ropa-4" class="card__img">
+                                        <img src="./assets/img/actividades/ropa-4.webp" alt="ropa-4" class="card__img border">
                                     </div>
                                 </div>
                             </div>
@@ -202,107 +284,107 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-1.webp" alt="ortopedicos-1" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-1.webp" alt="ortopedicos-1" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-2.webp" alt="ortopedicos-2" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-2.webp" alt="ortopedicos-2" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-3.webp" alt="ortopedicos-3" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-3.webp" alt="ortopedicos-3" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-4.webp" alt="ortopedicos-4" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-4.webp" alt="ortopedicos-4" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-5.webp" alt="ortopedicos-5" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-5.webp" alt="ortopedicos-5" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-6.webp" alt="ortopedicos-6" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-6.webp" alt="ortopedicos-6" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-7.webp" alt="ortopedicos-7" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-7.webp" alt="ortopedicos-7" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-8.webp" alt="ortopedicos-8" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-8.webp" alt="ortopedicos-8" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-9.webp" alt="ortopedicos-9" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-9.webp" alt="ortopedicos-9" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-10.webp" alt="ortopedicos-10" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-10.webp" alt="ortopedicos-10" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-11.webp" alt="ortopedicos-11" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-11.webp" alt="ortopedicos-11" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-12.webp" alt="ortopedicos-12" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-12.webp" alt="ortopedicos-12" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-13.webp" alt="ortopedicos-13" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-13.webp" alt="ortopedicos-13" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-14.webp" alt="ortopedicos-14" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-14.webp" alt="ortopedicos-14" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-15.webp" alt="ortopedicos-15" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-15.webp" alt="ortopedicos-15" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-16.webp" alt="ortopedicos-16" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-16.webp" alt="ortopedicos-16" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-17.webp" alt="ortopedicos-17" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-17.webp" alt="ortopedicos-17" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-18.webp" alt="ortopedicos-18" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-18.webp" alt="ortopedicos-18" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-19.webp" alt="ortopedicos-19" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-19.webp" alt="ortopedicos-19" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-20.webp" alt="ortopedicos-20" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-20.webp" alt="ortopedicos-20" class="card__img border">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/ortopedico-21.webp" alt="ortopedicos-21" class="card__img">
+                                        <img src="./assets/img/actividades/ortopedico-21.webp" alt="ortopedicos-21" class="card__img border">
                                     </div>
                                 </div>
                             </div>
@@ -314,87 +396,6 @@
                 </div>
             </div>
         </section>
-
-        <!--  ACTIVIDAD 4 -->
-
-        <section class="section" id="actividades">
-            <div class="container">
-                <div class="f-elements f-col gap-sm">
-                    <p class="section__subtitle section__subtitle--third text-uppercase">Donación de <span class="section__title--span">Juguetes, Ropa y Zapatos</span> - AAHH de Valle Alto - San Gabriel</p>
-                    <div class="f-elements f-col f-elements--center gap-md py-md">
-                        <div class="swiper mySwiperActivity4">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-3.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-4.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-6.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-8.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-10.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-14.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-16.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-18.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-19.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-21.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-22.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card mx-auto">
-                                        <img src="./assets/img/actividades/donacion-juguetes-23.webp" alt="donacion-juguetes" class="card__img">
-                                    </div>
-                                </div>
-                            </div>
-                            <!--
-                            <div class="swiper-pagination mt-auto"></div>
-                            -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- FIN DE Actividades -->
 
         <section class="section">
             <div class="f-elements f-col f-elements--center gap-sm py-md px-responsive bg-parallax">
