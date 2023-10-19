@@ -83,7 +83,7 @@
         <section class="banner banner__nosotros my-scroll f-elements f-elements--center my-scroll" id="banner">
             <div class="container">
                 <div class="f-elements f-col f-elements--center">
-                    <p class="banner__title">¿QUIENES SOMOS?</p>
+                    <p class="banner__title">¿QUIÉNES SOMOS?</p>
                 </div>
             </div>
         </section>
@@ -91,31 +91,33 @@
         <!--   QUIENES SOMOS  -->
 
         <section class="py-xl" id="nosotros">
-            <div class="g-elements g-elements--responsive gap-md">
-                <div class="container f-elements f-col f-elements--justify-center gap-sm my-auto">
-                    <p class="section__title section__title--secondary">TRAPEROS DE EMAÚS </br><span class="section__title--span">SAN CAMILO</span></p>
-                    <p class="section__description section__description--primary">
-                        Somos un apasionado grupo de personas con una fuerte vocación social que trabajamos incansablemente
-                         para ayudar a quienes menos tienen. Nos esforzamos en difundir nuestra labor, buscando el apoyo de empresas 
-                         e instituciones tanto del sector privado como del estado. Recibimos donaciones de aquello que no utilizan, para así poder seguir brindando ayuda y transmitiendo un mensaje de esperanza para un futuro lleno de oportunidades. Trabajamos con amor y dedicación diariamente, comprometidos con nuestra misión.
-                    </p>
-                </div>
-                <div class="slider">
-                    <div class="swiper mySwiperNosotros">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                    <div class="f-elements f-col f-elements--end border-left">
-                                        <img src="./assets/img/nosotros/nosotros-4.jpeg" alt="" class="section__img border-left" />
+            <div class="container">
+                <div class="g-elements g-elements--responsive gap-lg">
+                    <div class="f-elements f-col f-elements--justify-center gap-sm my-auto">
+                        <p class="section__title section__title--secondary">TRAPEROS DE EMAÚS </br><span class="section__title--span">SAN CAMILO</span></p>
+                        <p class="section__description section__description--primary">
+                            Somos un apasionado grupo de personas con una fuerte vocación social que trabajamos incansablemente
+                             para ayudar a quienes menos tienen. Nos esforzamos en difundir nuestra labor, buscando el apoyo de empresas
+                             e instituciones tanto del sector privado como del estado. Recibimos donaciones de aquello que no utilizan, para así poder seguir brindando ayuda y transmitiendo un mensaje de esperanza para un futuro lleno de oportunidades. Trabajamos con amor y dedicación diariamente, comprometidos con nuestra misión.
+                        </p>
+                    </div>
+                    <div class="slider f-elements f-col f-elements--center">
+                        <div class="swiper mySwiperNosotros">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="section__img mx-auto">
+                                        <img src="./assets/img/nosotros/1.webp" alt="" class="section__img border" />
                                     </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="f-elements f-col f-elements--end border-left">
-                                    <img src="./assets/img/nosotros/nosotros-5.jpeg" alt="" class="section__img border-left" />
                                 </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="f-elements f-col f-elements--end border-left">
-                                    <img src="./assets/img/nosotros/nosotros-7.jpeg" alt="" class="section__img border-left" />
+                                <div class="swiper-slide">
+                                    <div class="section__img mx-auto">
+                                        <img src="./assets/img/nosotros/2.webp" alt="" class="section__img border my-auto" />
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="section__img mx-auto">
+                                        <img src="./assets/img/nosotros/3.webp" alt="" class="section__img border" />
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -126,9 +128,9 @@
 
         <section class="section">
             <div class="container">
-                <div class="g-elements g-elements--center g-elements--responsive gap-md">
-                    <div class="card card__section f-elements f-col f-elements--center gap-sm bg-rev-rose px-md py-md h-100">
-                        <p class="section__title section__title--secondary">
+                <div class="g-elements g-elements--center g-elements--responsive gap-xl">
+                    <div class="card card__section f-elements f-col f-elements--center gap-sm bg-rev-rose px-md py-md h-100 p-relative">
+                        <p class="section__title section__title--secondary pt-sm">
                             Misión
                         </p>
                         <p class="section__description section__description--reverse-secondary">
@@ -136,15 +138,21 @@
                             como casos sociales que podamos atender a medida que recolectemos <span class="section__title--span">donaciones</span> de cosas que no usen empresas y
                             hogares.
                         </p>
+                        <div class="card-icon">
+                            <img src="./assets/icon/mission-icon.svg" alt="">
+                        </div>
                     </div>
-                    <div class="card card__section f-elements f-col f-elements--center gap-sm bg-rev-rose px-md py-md h-100">
-                        <p class="section__title section__title--secondary">
+                    <div class="card card__section f-elements f-col f-elements--center gap-sm bg-rev-rose px-md py-md h-100 p-relative">
+                        <p class="section__title section__title--secondary pt-sm">
                             Visión
                         </p>
                         <p class="section__description section__description--reverse-secondary">
                             Ser una de las primeras instituciones que brindará <span class="section__title--span">ayuda social</span> y <span class="section__title--span">rehabilitación física</span>, así como talleres productivos
                              con más personas beneficiadas en la ciudad de Lima.
                         </p>
+                        <div class="card-icon">
+                            <img src="./assets/icon/vision-icon.svg" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -156,24 +164,36 @@
                 <div class="f-elements f-col f-elements--center gap-md">
                     <p class="section__title section__title--primary">Nuestros <span class="section__title--span">Valores</span></p>
                     <div class="g-elements g-elements--center g-template-columns gap-md">
-                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
-                            <div class="f-elements f-col f-elements--center">
+                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive p-relative">
+                            <div class="f-elements f-col f-elements--center pt-sm">
                                 <p class="card__title card__title--reverse-secondary">Respeto</p>
                             </div>
+                            <div class="card-icon">
+                                <img src="./assets/icon/small-mission-icon.svg" alt="">
+                            </div>
                         </div>
-                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
-                            <div class="f-elements f-col f-elements--center">
+                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive p-relative">
+                            <div class="f-elements f-col f-elements--center pt-sm">
                                 <p class="card__title card__title--reverse-secondary">Solidaridad</p>
                             </div>
-                        </div>
-                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
-                            <div class="f-elements f-col f-elements--center">
-                                <p class="card__title card__title--reverse-secondary">Responsabilidad</p>
+                            <div class="card-icon">
+                                <img src="./assets/icon/small-mission-icon.svg" alt="">
                             </div>
                         </div>
-                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive">
-                            <div class="f-elements f-col f-elements--center">
+                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive p-relative">
+                            <div class="f-elements f-col f-elements--center pt-sm">
+                                <p class="card__title card__title--reverse-secondary">Responsabilidad</p>
+                            </div>
+                            <div class="card-icon">
+                                <img src="./assets/icon/small-mission-icon.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="card card__content f-elements f-col f-elements--center gap-sm bg-rev-rose p-responsive p-relative">
+                            <div class="f-elements f-col f-elements--center pt-sm">
                                 <p class="card__title card__title--reverse-secondary">Empatía</p>
+                            </div>
+                            <div class="card-icon">
+                                <img src="./assets/icon/small-mission-icon.svg" alt="">
                             </div>
                         </div>
                     </div>

@@ -143,6 +143,10 @@
   gap: calc(var(--padding-section) * 2.5);
 }
 
+.gap-xl {
+  gap: calc(var(--padding-section) * 3);
+}
+
 @media (min-width: 1024px) {
   .md\:gap-sm {
     gap: calc(var(--padding-section) * 0.5);
@@ -322,6 +326,15 @@
   border-radius: 28px;
   padding: 1rem;
   box-sizing: border-box;
+}
+
+.pt-sm {
+  padding-top: 1.5rem;
+}
+@media (min-width: 1024px) {
+  .pt-sm {
+    padding-top: 2rem;
+  }
 }
 
 .py-sm {
@@ -523,6 +536,14 @@
   cursor: pointer;
 }
 
+.card-icon {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: jump 1s ease-in-out -0.25s infinite alternate;
+}
+
 .section {
   padding-top: var(--padding-section);
   padding-bottom: var(--padding-section);
@@ -691,8 +712,8 @@
 }
 @media (min-width: 1024px) {
   .section__img {
-    width: inherit;
-    height: inherit;
+    width: 100%;
+    height: 450px;
   }
 }
 .section__icon {
@@ -1050,8 +1071,9 @@
   }
 }
 .banner__nosotros {
-  --opacidad-negro: 0.3;
-  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-nosotros.png");
+  --opacidad-negro: 0.4;
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-nosotros.webp");
+  background-size: 100%;
   height: 220px;
 }
 @media (min-width: 1024px) {
@@ -1269,6 +1291,14 @@
     transform: scale3d(1, 1, 1);
   }
 }
+@keyframes jump {
+  0% {
+    margin-top: 0;
+  }
+  100% {
+    margin-top: 1rem;
+  }
+}
 .slider {
   width: 100%;
   overflow: hidden;
@@ -1289,7 +1319,6 @@
   box-shadow: 0 0 0.125rem var(--primary-shadow-color), 0 0 0.25rem var(--primary-shadow-color);
   border-radius: var(--primary-border-radius);
   max-width: 360px;
-  overflow: hidden;
   box-sizing: border-box;
   width: 100%;
 }
@@ -1303,7 +1332,7 @@
   width: 100%;
   height: 100%;
   max-width: 546px;
-  max-height: 229px;
+  max-height: 350px;
   box-sizing: border-box;
 }
 .card__content {

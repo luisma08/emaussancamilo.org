@@ -137,6 +137,10 @@
     gap: calc(var(--padding-section) * 2.5);
 }
 
+.gap-xl{
+    gap: calc(var(--padding-section) * 3);
+}
+
 .md\:gap-sm{
     @include desktop{
         gap: calc(var(--padding-section) * 0.5);
@@ -316,6 +320,14 @@
     border-radius: 28px;
     padding: 1rem;
     box-sizing: border-box;
+}
+
+.pt-sm{
+    padding-top: 1.5rem;
+
+    @include desktop{
+        padding-top: 2rem;
+    }
 }
 
 .py-sm{
@@ -516,5 +528,14 @@
 
 .cursor-pointer{
     cursor: pointer;
+}
+
+.card-icon{
+    position: absolute;
+    //width: 25%;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: jump 1s ease-in-out -0.25s infinite alternate;
 }
 
