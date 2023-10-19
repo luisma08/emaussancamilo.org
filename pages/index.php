@@ -344,7 +344,7 @@
         <!--  ACTIVIDADES -->
 
         <section class="section" id="actividades">
-            <div class="container">
+            <div class="">
                 <div class="f-elements f-col f-elements--center gap-lg">
                     <div class="f-elements f-col f-elements--center gap-sm">
                         <p class="section__subtitle section__subtitle--third text-uppercase">Conoce nuestras</p>
@@ -352,15 +352,19 @@
                             <span class="section__title--span">Últimas Actividades <i class="bi bi-heart-fill"></i></span>
                         </p>
                     </div>
-                    <div class="g-elements g-elements--responsive bg-img py-md px-md">
-                        <div class="f-elements f-col gap-sm py-sm">
-                            <p class="section__description section__description--reverse-responsive">
-                                Actividad de entrega de canastas a mamitas trabajadoras de la calle
-                            </p>
+                    <div class="container">
+                        <div class="g-elements g-elements--responsive bg-img py-md px-md">
+                            <div class="f-elements f-col gap-sm py-sm">
+                                <p class="section__description section__description--reverse-responsive">
+                                    Actividad de entrega de canastas a mamitas trabajadoras de la calle
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="slider">
-                        <div class="swiper mySwiperActivity1">
+                        <div class="swiper mySwiperActivity1 container p-relative px-md">
+                            <div class="button-prev cursor-pointer p-absolute p-center-left"><img src="./assets/icon/button-prev.svg" alt="" width="46" height="46"/></div>
+                            <div class="button-next cursor-pointer p-absolute p-center-right"><img src="./assets/icon/button-next.svg" alt="" width="46" height="46"/></div>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
@@ -404,19 +408,23 @@
                                 </div>
                             </div>
                             <!--
-                            <div class="swiper-pagination mt-auto"></div>
+                                <div class="swiper-pagination mt-auto"></div>
                             -->
                         </div>
                     </div>
-                    <div class="g-elements g-elements--responsive bg-img py-md px-md">
-                        <div class="f-elements f-col gap-sm py-sm">
-                            <p class="section__description section__description--reverse-responsive">
-                                Adultos mayores de Santa Rosa de Belén
-                            </p>
+                    <div class="container">
+                        <div class="g-elements g-elements--responsive bg-img py-md px-md">
+                            <div class="f-elements f-col gap-sm py-sm">
+                                <p class="section__description section__description--reverse-responsive">
+                                    Adultos mayores de Santa Rosa de Belén
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="slider">
-                        <div class="swiper mySwiperActivity2">
+                        <div class="swiper mySwiperActivity2 container p-relative px-md">
+                            <div class="button-prev cursor-pointer p-absolute p-center-left"><img src="./assets/icon/button-prev.svg" alt="" width="46" height="46"/></div>
+                            <div class="button-next cursor-pointer p-absolute p-center-right"><img src="./assets/icon/button-next.svg" alt="" width="46" height="46"/></div>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
@@ -464,15 +472,19 @@
                             -->
                         </div>
                     </div>
-                    <div class="g-elements g-elements--responsive bg-img py-md px-md">
-                        <div class="f-elements f-col gap-sm py-sm">
-                            <p class="section__description section__description--reverse-responsive">
-                                Donación de víveres a familias del Asentamiento Humano Las Lomas en San Gabriel
-                            </p>
+                    <div class="container">
+                        <div class="g-elements g-elements--responsive bg-img py-md px-md">
+                            <div class="f-elements f-col gap-sm py-sm">
+                                <p class="section__description section__description--reverse-responsive">
+                                    Donación de víveres a familias del Asentamiento Humano Las Lomas en San Gabriel
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="slider">
-                        <div class="swiper mySwiperActivity3">
+                        <div class="swiper mySwiperActivity3 container p-relative px-md">
+                            <div class="button-prev cursor-pointer p-absolute p-center-left"><img src="./assets/icon/button-prev.svg" alt="" width="46" height="46"/></div>
+                            <div class="button-next cursor-pointer p-absolute p-center-right"><img src="./assets/icon/button-next.svg" alt="" width="46" height="46"/></div>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="card mx-auto">
@@ -520,7 +532,7 @@
                             -->
                         </div>
                     </div>
-                    <div>
+                    <div class="container">
                         <a class="button button--primary" href="/actividades-sociales"><i class="bi bi-balloon-heart"></i> Ver más Actividades</a>
                     </div>
                 </div>

@@ -37,14 +37,15 @@ var swiperActivity1 = new Swiper(slideContainerActivity1, {
     el: ".swiper-pagination",
     clickable: true,
   },
-
+  navigation: {
+    nextEl: ".button-next",
+    prevEl: ".button-prev",
+  },
   autoplay:{
       delay:5000,
       disableOnInteraction: false,
   },
-
   loop: true,
-
   breakpoints: {
       // when window width is >= 320px
       320: {
@@ -82,7 +83,10 @@ var swiperActivity2 = new Swiper(slideContainerActivity2, {
     el: ".swiper-pagination",
     clickable: true,
   },
-
+  navigation: {
+    nextEl: ".button-next",
+    prevEl: ".button-prev",
+  },
   autoplay:{
       delay:5000,
       disableOnInteraction: false,
@@ -127,14 +131,15 @@ var swiperActivity3 = new Swiper(slideContainerActivity3, {
     el: ".swiper-pagination",
     clickable: true,
   },
-
+  navigation: {
+    nextEl: ".button-next",
+    prevEl: ".button-prev",
+  },
   autoplay:{
       delay:5000,
       disableOnInteraction: false,
   },
-
   loop: true,
-
   breakpoints: {
       // when window width is >= 320px
       320: {

@@ -543,3 +543,19 @@
     animation: jump 1s ease-in-out -0.25s infinite alternate;
 }
 
+.p-center-left{
+    top: 50%;
+    left: 0px;
+    transform: translateY(-50%);
+    z-index: 9999;
+    padding: 5px;
+}
+
+.p-center-right{
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    z-index: 9999;
+    padding: 5px;
+}
+
